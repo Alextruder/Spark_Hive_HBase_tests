@@ -1,0 +1,1 @@
+spark-shell -i /home/spark/Test_Scripts/Spark/Basic_Tests/create_hivedb.scala
