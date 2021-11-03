@@ -12,7 +12,7 @@ echo ''
 echo ''
 
 echo 'Content of the first log'
-hdfs dfs -cat /user/data/hadoop/hadoop_logs/hadoop-root-namenode-*.log
+hdfs dfs -cat /user/data/hadoop/hadoop_logs/hadoop-data-namenode-*.log
 
 sleep 2s
 echo ''
